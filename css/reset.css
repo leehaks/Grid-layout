@@ -16,7 +16,7 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	font-family: 'Opensans-regular', 'NotoSans-regular', sans-serif; 
+	font-family: 'Opensans-regular', sans-serif; 
 	-webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -51,7 +51,7 @@ html, body {
 }
 
 select, input, button { 
-	font-family: 'Opensans-regular', 'NotoSans-regular', sans-serif; 
+	font-family: 'Opensans-regular', sans-serif; 
 	display: block; 
 	cursor: pointer;
 }
